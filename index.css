@@ -251,6 +251,7 @@ form div{
     padding: 10px 70px;
     background-color: rgb(199, 189, 189);
     border-radius: 10px;
+    width: 100%;
 }
 form textarea{
     width: 100%;
